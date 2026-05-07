@@ -1,0 +1,16 @@
+﻿{
+    "appKey":  "bi77I43IEVwnioHV",
+    "accessKeyId":  "TODO_ALIYUN_ACCESS_KEY_ID",
+    "accessKeySecret":  "TODO_ALIYUN_ACCESS_KEY_SECRET",
+    "tokenEndpoint":  "https://nls-meta.cn-shanghai.aliyuncs.com",
+    "recognitionWsUrl":  "wss://nls-gateway.cn-shanghai.aliyuncs.com/ws/v1",
+    "ttsStreamEndpoint":  "https://nls-gateway-cn-shanghai.aliyuncs.com/stream/v1/tts",
+    "ttsVoice":  "xiaoyun",
+    "ttsFormat":  "mp3",
+    "ttsSampleRate":  16000,
+    "ttsSpeechRate":  0,
+    "ttsPitchRate":  0,
+    "ttsVolume":  50,
+    "pollIntervalMs":  450,
+    "pollMaxAttempts":  14
+}

@@ -1,0 +1,6 @@
+{
+  "name": "getOrderDetail",
+  "dependencies": {
+    "order-service": "file:../common/order-service"
+  }
+}

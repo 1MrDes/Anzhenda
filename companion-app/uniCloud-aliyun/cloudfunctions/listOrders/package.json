@@ -1,0 +1,6 @@
+{
+  "name": "listOrders",
+  "dependencies": {
+    "order-service": "file:../common/order-service"
+  }
+}

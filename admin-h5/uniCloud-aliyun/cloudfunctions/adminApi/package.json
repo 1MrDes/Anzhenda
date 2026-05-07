@@ -1,0 +1,7 @@
+{
+  "name": "adminApi",
+  "version": "1.0.0",
+  "description": "AnzhenCare admin unified API",
+  "main": "index.js",
+  "dependencies": {}
+}

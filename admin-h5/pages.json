@@ -1,0 +1,18 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "安诊达管理后台"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "安诊达管理后台",
+		"navigationBarBackgroundColor": "#FAFAF8",
+		"backgroundColor": "#FAFAF8"
+	},
+	"uniIdRouter": {}
+}

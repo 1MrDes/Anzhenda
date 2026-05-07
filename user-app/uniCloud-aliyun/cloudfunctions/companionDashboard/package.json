@@ -1,0 +1,6 @@
+{
+  "name": "companionDashboard",
+  "dependencies": {
+    "order-service": "file:../common/order-service"
+  }
+}

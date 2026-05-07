@@ -1,0 +1,6 @@
+{
+  "name": "speechSynthesize",
+  "dependencies": {
+    "aliyun-speech-service": "file:../common/aliyun-speech-service"
+  }
+}

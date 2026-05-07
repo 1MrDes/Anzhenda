@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u9996\u9875"
+      }
+    },
+    {
+      "path": "pages/booking/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u670d\u52a1\u9884\u7ea6"
+      }
+    },
+    {
+      "path": "pages/companion/detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u966a\u8bca\u5458\u8be6\u60c5"
+      }
+    },
+    {
+      "path": "pages/payment/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u786e\u8ba4\u652f\u4ed8"
+      }
+    },
+    {
+      "path": "pages/tracking/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u8ba2\u5355\u8ffd\u8e2a",
+        "enablePullDownRefresh": true,
+        "backgroundTextStyle": "dark"
+      }
+    },
+    {
+      "path": "pages/map-mode/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u5927\u5730\u56fe\u6a21\u5f0f"
+      }
+    },
+    {
+      "path": "pages/orders/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u6211\u7684\u8ba2\u5355",
+        "enablePullDownRefresh": true,
+        "backgroundTextStyle": "dark"
+      }
+    },
+    {
+      "path": "pages/family/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u5bb6\u5ead\u4ee3\u529e"
+      }
+    },
+    {
+      "path": "pages/patients/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u5c31\u8bca\u4eba\u7ba1\u7406"
+      }
+    },
+    {
+      "path": "pages/family-binding/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u5bb6\u4eba\u7ed1\u5b9a"
+      }
+    },
+    {
+      "path": "pages/help/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u5e2e\u52a9\u4e2d\u5fc3"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "\u4e2a\u4eba\u4e2d\u5fc3"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "\u5b89\u8bca\u8fbe",
+    "navigationBarBackgroundColor": "#FAFAF8",
+    "backgroundColor": "#FAFAF8"
+  },
+  "uniIdRouter": {}
+}

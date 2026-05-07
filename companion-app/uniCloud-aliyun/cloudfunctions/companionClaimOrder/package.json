@@ -1,0 +1,6 @@
+{
+  "name": "companionClaimOrder",
+  "dependencies": {
+    "order-service": "file:../common/order-service"
+  }
+}

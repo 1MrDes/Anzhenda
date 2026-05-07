@@ -1,0 +1,6 @@
+{
+  "name": "companionListMyOrders",
+  "dependencies": {
+    "order-service": "file:../common/order-service"
+  }
+}

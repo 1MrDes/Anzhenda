@@ -1,0 +1,6 @@
+{
+  "name": "companionGetOrderDetail",
+  "dependencies": {
+    "order-service": "file:../common/order-service"
+  }
+}

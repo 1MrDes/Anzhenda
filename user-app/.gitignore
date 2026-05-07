@@ -1,0 +1,12 @@
+# Build output
+unpackage/
+
+# Local backups and archives
+backup/
+
+# Tooling caches
+.docx-build/node_modules/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db

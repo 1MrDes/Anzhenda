@@ -1,0 +1,21 @@
+{
+  "bsonType": "object",
+  "required": ["name", "phone"],
+  "permission": {
+    "read": false,
+    "create": false,
+    "update": false,
+    "delete": false
+  },
+  "properties": {
+    "_id": { "description": "ID" },
+    "name": { "bsonType": "string", "description": "companion name" },
+    "phone": { "bsonType": "string", "description": "phone" },
+    "workStatus": { "bsonType": "string", "description": "online/busy/rest" },
+    "certStatus": { "bsonType": "string", "description": "certification status" },
+    "rating": { "bsonType": ["double", "int"], "description": "rating" },
+    "enabled": { "bsonType": "bool", "description": "enabled" },
+    "createdAt": { "bsonType": ["int", "long", "double"], "description": "created time" },
+    "updatedAt": { "bsonType": ["int", "long", "double"], "description": "updated time" }
+  }
+}

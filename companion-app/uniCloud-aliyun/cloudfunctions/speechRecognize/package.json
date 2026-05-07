@@ -1,0 +1,15 @@
+{
+    "name": "speechRecognize",
+    "dependencies": [],
+    "extensions": {
+        "uni-cloud-jql": {}
+    },
+    "cloudfunction-config": {
+        "memorySize": 128,
+        "timeout": 5,
+        "triggers": [],
+        "path": "",
+        "runtime": "Nodejs16",
+        "concurrency": 1
+    }
+}
